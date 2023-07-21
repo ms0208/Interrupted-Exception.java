@@ -1,5 +1,7 @@
 # Interrupted-Exception.java
+
 import java.util.LinkedList;
+
 public class COTH {
     public static void main(String[] args)
         throws InterruptedException
